@@ -1,4 +1,4 @@
-# Site da comunidade Pyladies Rio
+# Site da comunidade Pyladies PUC-Rio
 
 ##Para adicionar uma lady há duas formas:
 
