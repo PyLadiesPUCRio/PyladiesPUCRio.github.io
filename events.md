@@ -4,7 +4,7 @@ title: eventos
 permalink: /events/
 ---
 
-<p>Aqui tem uma lista dos nossos próximos eventos. :-)</p>
+<p>Próximos eventos serão divulgados aqui! :-)</p>
 
 {% if site.events %}
 <ul>
